@@ -6,7 +6,16 @@
     <description>Recent content in Posts on wenzhan&#39;s niche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Dec 2020 03:42:45 -0800</lastBuildDate><atom:link href="wenzhan510.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 21:16:44 -0800</lastBuildDate><atom:link href="wenzhan510.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>wenzhan510.github.io/posts/my-second-post/</link>
+      <pubDate>Thu, 10 Dec 2020 21:16:44 -0800</pubDate>
+      
+      <guid>wenzhan510.github.io/posts/my-second-post/</guid>
+      <description>第二篇博文 艺术教育 and so on 怎么学习艺术</description>
+    </item>
+    
     <item>
       <title>first blog</title>
       <link>wenzhan510.github.io/posts/my-first-post/</link>
@@ -14,7 +23,7 @@
       
       <guid>wenzhan510.github.io/posts/my-first-post/</guid>
       <description>backup data this is something test
-this has been changed new stuff</description>
+this has been changed</description>
     </item>
     
   </channel>

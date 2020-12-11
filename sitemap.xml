@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>wenzhan510.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-12-09T03:42:45-08:00</lastmod>
+    <loc>wenzhan510.github.io/posts/my-second-post/</loc>
+    <lastmod>2020-12-10T21:16:44-08:00</lastmod>
   </url>
   
   <url>
     <loc>wenzhan510.github.io/posts/</loc>
-    <lastmod>2020-12-09T03:42:45-08:00</lastmod>
+    <lastmod>2020-12-10T21:16:44-08:00</lastmod>
   </url>
   
   <url>
     <loc>wenzhan510.github.io/</loc>
+    <lastmod>2020-12-10T21:16:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>wenzhan510.github.io/posts/my-first-post/</loc>
     <lastmod>2020-12-09T03:42:45-08:00</lastmod>
   </url>
   
