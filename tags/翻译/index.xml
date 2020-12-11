@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on wenzhan&#39;s niche</title>
-    <link>wenzhan510.github.io/posts/</link>
-    <description>Recent content in Posts on wenzhan&#39;s niche</description>
+    <title>翻译 on wenzhan&#39;s niche</title>
+    <link>wenzhan510.github.io/tags/%E7%BF%BB%E8%AF%91/</link>
+    <description>Recent content in 翻译 on wenzhan&#39;s niche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Dec 2020 22:26:32 -0800</lastBuildDate><atom:link href="wenzhan510.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Third</title>
-      <link>wenzhan510.github.io/posts/third/</link>
-      <pubDate>Thu, 10 Dec 2020 22:26:32 -0800</pubDate>
-      
-      <guid>wenzhan510.github.io/posts/third/</guid>
-      <description>This really is a test</description>
-    </item>
-    
-    <item>
-      <title>关于艺术教育</title>
-      <link>wenzhan510.github.io/posts/my-second-post/</link>
-      <pubDate>Thu, 10 Dec 2020 21:16:44 -0800</pubDate>
-      
-      <guid>wenzhan510.github.io/posts/my-second-post/</guid>
-      <description>第二篇博文 艺术教育 and so on 怎么学习艺术</description>
-    </item>
-    
+    <lastBuildDate>Wed, 09 Dec 2020 03:42:45 -0800</lastBuildDate><atom:link href="wenzhan510.github.io/tags/%E7%BF%BB%E8%AF%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeffrey Way访谈翻译</title>
       <link>wenzhan510.github.io/posts/jeffrey-way-interview-partially-translated/</link>
