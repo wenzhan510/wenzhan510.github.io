@@ -21,7 +21,7 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
-  <title>Diary | wenzhan</title>
+  <title>网页在某机器上突然打不开，可能是本地DNS记录未更新 | wenzhan</title>
 </head>
 
 <body>
@@ -64,35 +64,45 @@
 
   <section class="main-content">
     
-<h1>Diary</h1>
-<ul>
-
-
-  <li>
+  <h1>网页在某机器上突然打不开，可能是本地DNS记录未更新</h1>
+  <div>
     
-    2020-12-12
-    <a href="https://wenzhan.info/posts/digital-detox/">
-      Digital Detox
-    </a>
-  </li>        
+    <strong>Publish date: </strong>2020-12-12
+  </div>
+  
+  
+    <div>
+      <strong>Tags: </strong>
+      
+        
+        
+        
+      
+        
+        
+        
+      
+        
+        
+        
+      
+      <a href="https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/">中文</a>, <a href="https://wenzhan.info/tags/network/">Network</a>, <a href="https://wenzhan.info/tags/tech/">Tech</a>
+    </div>
+  
+  <p>发生了这样一种情况：更改DNS记录之后，本地一台电脑无法打开网页，但是手机及其他电脑均可以打开。本地电脑上所有浏览器都表现出这个问题，而且，仅通过浏览器删除历史记录，也不能解决相关问题。</p>
+<p>后来发现，这是因为，本地缓存的DNS记录未能及时清理。</p>
+<p>解决的办法可以自行搜索<code>flush DNS</code>。</p>
+<p>其中，mac系统可以运行以下命令：</p>
+<pre><code>sudo killall -HUP mDNSResponder
+</code></pre><p>通常，网站的DNS记录，会根据域名服务器上对应条目所设置的TTL，在本地保存对应的时间，以加快检索。</p>
+<p>而网站是无法主动告知本地电脑及时调整DNS的TTL时间设置的。</p>
+<p>那么，对于网站建设者，应该怎么办呢？</p>
+<p>1.如果未来一段时间不需要更改DNS记录，应该将对应条目的TTL设置略长，一般默认值为缓存30h～3d左右，这段时间内，可以加速访问（避免频繁请求DNS的延迟）。</p>
+<p>2.如果预计未来将更改网站对应的DNS记录，应该提前（具体提前的时间，根据原来条目TTL的值决定，确保条目能及时更新），将DNS对应的TTL改小，例如改成30m。这样，当具体更改DNS条目的时候，用户最多只需要等待新设置的DNS的TTL时间，就可以获取新的DNS记录。</p>
 
-  <li>
-    
-    2020-12-11
-    <a href="https://wenzhan.info/posts/a-dream/">
-      在一个梦的时间里与过去和解
-    </a>
-  </li>        
+  
 
-  <li>
-    
-    2020-12-11
-    <a href="https://wenzhan.info/posts/a-dream-eng/">
-      Say Hi To My Childhood
-    </a>
-  </li>        
 
-</ul>
 
     <footer class="site-footer">
   <span class="site-footer-credits">

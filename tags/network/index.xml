@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on wenzhan</title>
+    <link>https://wenzhan.info/tags/network/</link>
+    <description>Recent content in Network on wenzhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Dec 2020 22:02:30 -0800</lastBuildDate><atom:link href="https://wenzhan.info/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网页在某机器上突然打不开，可能是本地DNS记录未更新</title>
+      <link>https://wenzhan.info/posts/flush-dns/</link>
+      <pubDate>Sat, 12 Dec 2020 22:02:30 -0800</pubDate>
+      
+      <guid>https://wenzhan.info/posts/flush-dns/</guid>
+      <description>发生了这样一种情况：更改DNS记录之后，本地一台电脑无法打开网页，但是手机及其他电脑均可以打开。本地电脑上所有浏览器都表现出这个问题，而且，仅通过浏览器删除历史记录，也不能解决相关问题。
+后来发现，这是因为，本地缓存的DNS记录未能及时清理。
+解决的办法可以自行搜索flush DNS。
+其中，mac系统可以运行以下命令：
+sudo killall -HUP mDNSResponder 通常，网站的DNS记录，会根据域名服务器上对应条目所设置的TTL，在本地保存对应的时间，以加快检索。
+而网站是无法主动告知本地电脑及时调整DNS的TTL时间设置的。
+那么，对于网站建设者，应该怎么办呢？
+1.如果未来一段时间不需要更改DNS记录，应该将对应条目的TTL设置略长，一般默认值为缓存30h～3d左右，这段时间内，可以加速访问（避免频繁请求DNS的延迟）。
+2.如果预计未来将更改网站对应的DNS记录，应该提前（具体提前的时间，根据原来条目TTL的值决定，确保条目能及时更新），将DNS对应的TTL改小，例如改成30m。这样，当具体更改DNS条目的时候，用户最多只需要等待新设置的DNS的TTL时间，就可以获取新的DNS记录。</description>
+    </item>
+    
+  </channel>
+</rss>

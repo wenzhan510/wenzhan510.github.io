@@ -6,7 +6,24 @@
     <description>Recent content on wenzhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 22:02:30 -0800</lastBuildDate><atom:link href="https://wenzhan.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网页在某机器上突然打不开，可能是本地DNS记录未更新</title>
+      <link>https://wenzhan.info/posts/flush-dns/</link>
+      <pubDate>Sat, 12 Dec 2020 22:02:30 -0800</pubDate>
+      
+      <guid>https://wenzhan.info/posts/flush-dns/</guid>
+      <description>发生了这样一种情况：更改DNS记录之后，本地一台电脑无法打开网页，但是手机及其他电脑均可以打开。本地电脑上所有浏览器都表现出这个问题，而且，仅通过浏览器删除历史记录，也不能解决相关问题。
+后来发现，这是因为，本地缓存的DNS记录未能及时清理。
+解决的办法可以自行搜索flush DNS。
+其中，mac系统可以运行以下命令：
+sudo killall -HUP mDNSResponder 通常，网站的DNS记录，会根据域名服务器上对应条目所设置的TTL，在本地保存对应的时间，以加快检索。
+而网站是无法主动告知本地电脑及时调整DNS的TTL时间设置的。
+那么，对于网站建设者，应该怎么办呢？
+1.如果未来一段时间不需要更改DNS记录，应该将对应条目的TTL设置略长，一般默认值为缓存30h～3d左右，这段时间内，可以加速访问（避免频繁请求DNS的延迟）。
+2.如果预计未来将更改网站对应的DNS记录，应该提前（具体提前的时间，根据原来条目TTL的值决定，确保条目能及时更新），将DNS对应的TTL改小，例如改成30m。这样，当具体更改DNS条目的时候，用户最多只需要等待新设置的DNS的TTL时间，就可以获取新的DNS记录。</description>
+    </item>
+    
     <item>
       <title>Digital Detox</title>
       <link>https://wenzhan.info/posts/digital-detox/</link>
@@ -22,12 +39,24 @@ Suddenly, I felt my heart. By felt, I mean, I reasoned that something must have 
     </item>
     
     <item>
+      <title>Say Hi To My Childhood</title>
+      <link>https://wenzhan.info/posts/a-dream-eng/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenzhan.info/posts/a-dream-eng/</guid>
+      <description>中文
+I had a dream last night.
+I was at highschool, required to find a local community service to contribute to. My dad used his network and drove me and some other classmates to my hometown where we did some sort of measurement of landscapes (which of course won&amp;rsquo;t be used by anyone). After that, each of us had a little booklet style certificate, where the task and a score was recorded.</description>
+    </item>
+    
+    <item>
       <title>在一个梦的时间里与过去和解</title>
       <link>https://wenzhan.info/posts/a-dream/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wenzhan.info/posts/a-dream/</guid>
-      <description>昨天晚上，我做了一个梦。
+      <description>English
+昨天晚上，我做了一个梦。
 梦里我回到高中生的年纪，学校要求我们完成社会实践的任务。我爸开着车，带着我和一群小伙伴，去农村老家，测量宅基地（当然，一群毛孩子测量的结果，谁都不会信，我们每个人对此心知肚明，只想早日完成任务）。忙前忙后，终于弄完了，每人发了一本红本本，我的也是，里面写着“良好”，这就算是搞完了。我松了一口气，把红本本拿回家，我爸一看，脸立刻黑了下来：“为什么只是良好？为什么不是优秀？你们其他人有谁拿到优秀吗？他们拿到优秀你为什么没有？”我急的几乎要哭出来，吓醒了。
 回想这个梦，我发现它揭示了我过去生活遭遇里的一种真实：我的父亲虽然表现出对成绩的执念，但本质上他更担心的是我会不会受到了不公平的待遇——情理上看，他这个父亲又牵线、又当司机，这么努力，我拿一个“优秀”本来是应该的。如果这样的活动，我没有优秀，其他划水摸鱼的小同学却得了优秀，那这里面岂不是对我很不公平吗？但是，梦里作为高中生的“我”，是完全没办法理解我爸这种愤怒的，以为父亲的发火都是“我”的错，让我十分恐慌。
 而这种不安感，持续十几年，仍然让我念念不忘。
