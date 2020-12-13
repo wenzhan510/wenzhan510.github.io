@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wenzhan</title>
-    <link>https://wenzhan510.github.io/</link>
+    <link>https://wenzhan.info/</link>
     <description>Recent content on wenzhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan510.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Detox</title>
-      <link>https://wenzhan510.github.io/posts/digital-detox/</link>
+      <link>https://wenzhan.info/posts/digital-detox/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/posts/digital-detox/</guid>
+      <guid>https://wenzhan.info/posts/digital-detox/</guid>
       <description>Today is my digital detox day.
 I&amp;rsquo;m going to turn of all my remote communication methods related to SOSAD.FUN, and have a good sleep, and eat well, and exercise, and be myself.
 
@@ -23,10 +23,10 @@ Suddenly, I felt my heart. By felt, I mean, I reasoned that something must have 
     
     <item>
       <title>在一个梦的时间里与过去和解</title>
-      <link>https://wenzhan510.github.io/posts/a-dream/</link>
+      <link>https://wenzhan.info/posts/a-dream/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/posts/a-dream/</guid>
+      <guid>https://wenzhan.info/posts/a-dream/</guid>
       <description>昨天晚上，我做了一个梦。
 梦里我回到高中生的年纪，学校要求我们完成社会实践的任务。我爸开着车，带着我和一群小伙伴，去农村老家，测量宅基地（当然，一群毛孩子测量的结果，谁都不会信，我们每个人对此心知肚明，只想早日完成任务）。忙前忙后，终于弄完了，每人发了一本红本本，我的也是，里面写着“良好”，这就算是搞完了。我松了一口气，把红本本拿回家，我爸一看，脸立刻黑了下来：“为什么只是良好？为什么不是优秀？你们其他人有谁拿到优秀吗？他们拿到优秀你为什么没有？”我急的几乎要哭出来，吓醒了。
 回想这个梦，我发现它揭示了我过去生活遭遇里的一种真实：我的父亲虽然表现出对成绩的执念，但本质上他更担心的是我会不会受到了不公平的待遇——情理上看，他这个父亲又牵线、又当司机，这么努力，我拿一个“优秀”本来是应该的。如果这样的活动，我没有优秀，其他划水摸鱼的小同学却得了优秀，那这里面岂不是对我很不公平吗？但是，梦里作为高中生的“我”，是完全没办法理解我爸这种愤怒的，以为父亲的发火都是“我”的错，让我十分恐慌。
@@ -51,10 +51,10 @@ Suddenly, I felt my heart. By felt, I mean, I reasoned that something must have 
     
     <item>
       <title>About</title>
-      <link>https://wenzhan510.github.io/about/</link>
+      <link>https://wenzhan.info/about/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/about/</guid>
+      <guid>https://wenzhan.info/about/</guid>
       <description>This is Wenzhan (文栈). I&amp;rsquo;m a self taught programmer and a part time writer. I started this writer&amp;rsquo;s forum website SOSAD.FUN in 2017.
 I&amp;rsquo;ll be sharing with you part of my life and thoughts here. I&amp;rsquo;m not sure if this will meet your expectation of me or not.
 You can reach me at wenzhan.main@gmail.com.
@@ -67,10 +67,10 @@ You can reach me at wenzhan.main@gmail.com.
     
     <item>
       <title>Jeffrey Way访谈翻译</title>
-      <link>https://wenzhan510.github.io/posts/jeffrey-way-interview-partially-translated/</link>
+      <link>https://wenzhan.info/posts/jeffrey-way-interview-partially-translated/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/posts/jeffrey-way-interview-partially-translated/</guid>
+      <guid>https://wenzhan.info/posts/jeffrey-way-interview-partially-translated/</guid>
       <description>Jeffrey Way访谈翻译 原文+podcast可调语速音频 http://www.laravelpodcast.com/5f0ec3e5
 Matt Stauffer（主持人）：欢迎回到 Laravel Podcast 现场！今天我将采访的嘉宾是 Jeffrey Way ，Laracasts（一个推广laravel框架使用的视频教学网站）的创建者，并且他也是……等一下啊，是最初的没错吧？哦对的……是laravel 最早的OGs（OG 似乎是Original Gangsta，大概是元老的意思？）。节目很快开始，请不要走开。
 好的，欢迎回到 Laravel Podcast 现场。这是第三季节目，就像我之前说的，我才不会给你们这群疯子报数说这是第几集了，谁叫我自己就不太懂怎么数数呢。总之，管它第几集了，这是 Laravel Podcast 第三季中的一期节目，而今天我请来了咱们最常回访的嘉宾之一。我请来了 Jeffrey Way ，一个男人、活着的传奇、 Laracasts 的创始人，也是 Laravel 项目目前最重要的推广者之一。听众朋友们，你们中一半的人，甚至可能超过一半的人，最早开始学习 Laravel 的时候，就是从这家伙的教程开始入门的啊！

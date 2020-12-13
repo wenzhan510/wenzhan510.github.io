@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on wenzhan</title>
-    <link>https://wenzhan510.github.io/tags/</link>
+    <link>https://wenzhan.info/tags/</link>
     <description>Recent content in Tags on wenzhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan510.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diary</title>
-      <link>https://wenzhan510.github.io/tags/diary/</link>
+      <link>https://wenzhan.info/tags/diary/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/tags/diary/</guid>
+      <guid>https://wenzhan.info/tags/diary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>https://wenzhan510.github.io/tags/english/</link>
+      <link>https://wenzhan.info/tags/english/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/tags/english/</guid>
+      <guid>https://wenzhan.info/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>https://wenzhan510.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+      <link>https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
+      <guid>https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>回忆</title>
-      <link>https://wenzhan510.github.io/tags/%E5%9B%9E%E5%BF%86/</link>
+      <link>https://wenzhan.info/tags/%E5%9B%9E%E5%BF%86/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/tags/%E5%9B%9E%E5%BF%86/</guid>
+      <guid>https://wenzhan.info/tags/%E5%9B%9E%E5%BF%86/</guid>
       <description></description>
     </item>
     
     <item>
       <title>梦</title>
-      <link>https://wenzhan510.github.io/tags/%E6%A2%A6/</link>
+      <link>https://wenzhan.info/tags/%E6%A2%A6/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/tags/%E6%A2%A6/</guid>
+      <guid>https://wenzhan.info/tags/%E6%A2%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laravel</title>
-      <link>https://wenzhan510.github.io/tags/laravel/</link>
+      <link>https://wenzhan.info/tags/laravel/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/tags/laravel/</guid>
+      <guid>https://wenzhan.info/tags/laravel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>翻译</title>
-      <link>https://wenzhan510.github.io/tags/%E7%BF%BB%E8%AF%91/</link>
+      <link>https://wenzhan.info/tags/%E7%BF%BB%E8%AF%91/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/tags/%E7%BF%BB%E8%AF%91/</guid>
+      <guid>https://wenzhan.info/tags/%E7%BF%BB%E8%AF%91/</guid>
       <description></description>
     </item>
     
