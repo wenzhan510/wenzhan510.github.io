@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laravel on wenzhan</title>
-    <link>https://wenzhan510.github.io/tags/laravel/</link>
+    <link>https://wenzhan.info/tags/laravel/</link>
     <description>Recent content in Laravel on wenzhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan510.github.io/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeffrey Way访谈翻译</title>
-      <link>https://wenzhan510.github.io/posts/jeffrey-way-interview-partially-translated/</link>
+      <link>https://wenzhan.info/posts/jeffrey-way-interview-partially-translated/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan510.github.io/posts/jeffrey-way-interview-partially-translated/</guid>
+      <guid>https://wenzhan.info/posts/jeffrey-way-interview-partially-translated/</guid>
       <description>Jeffrey Way访谈翻译 原文+podcast可调语速音频 http://www.laravelpodcast.com/5f0ec3e5
 Matt Stauffer（主持人）：欢迎回到 Laravel Podcast 现场！今天我将采访的嘉宾是 Jeffrey Way ，Laracasts（一个推广laravel框架使用的视频教学网站）的创建者，并且他也是……等一下啊，是最初的没错吧？哦对的……是laravel 最早的OGs（OG 似乎是Original Gangsta，大概是元老的意思？）。节目很快开始，请不要走开。
 好的，欢迎回到 Laravel Podcast 现场。这是第三季节目，就像我之前说的，我才不会给你们这群疯子报数说这是第几集了，谁叫我自己就不太懂怎么数数呢。总之，管它第几集了，这是 Laravel Podcast 第三季中的一期节目，而今天我请来了咱们最常回访的嘉宾之一。我请来了 Jeffrey Way ，一个男人、活着的传奇、 Laracasts 的创始人，也是 Laravel 项目目前最重要的推广者之一。听众朋友们，你们中一半的人，甚至可能超过一半的人，最早开始学习 Laravel 的时候，就是从这家伙的教程开始入门的啊！
