@@ -3,38 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wenzhan.info/tags/network/</loc>
-    <lastmod>2020-12-12T22:02:30-08:00</lastmod>
+    <loc>https://wenzhan.info/tags/english/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/tags/food/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/posts/hot-sour-soup/eng/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/tags/life/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wenzhan.info/posts/</loc>
-    <lastmod>2020-12-12T22:02:30-08:00</lastmod>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wenzhan.info/tags/</loc>
-    <lastmod>2020-12-12T22:02:30-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wenzhan.info/tags/tech/</loc>
-    <lastmod>2020-12-12T22:02:30-08:00</lastmod>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wenzhan.info/</loc>
-    <lastmod>2020-12-12T22:02:30-08:00</lastmod>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/</loc>
-    <lastmod>2020-12-12T22:02:30-08:00</lastmod>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wenzhan.info/posts/flush-dns/</loc>
-    <lastmod>2020-12-12T22:02:30-08:00</lastmod>
+    <loc>https://wenzhan.info/posts/hot-sour-soup/zh-cn/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,17 +58,27 @@
   </url>
   
   <url>
-    <loc>https://wenzhan.info/tags/english/</loc>
+    <loc>https://wenzhan.info/tags/network/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wenzhan.info/posts/a-dream-eng/</loc>
+    <loc>https://wenzhan.info/tags/tech/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/posts/flush-dns/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/posts/a-dream/eng/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wenzhan.info/posts/a-dream/</loc>
+    <loc>https://wenzhan.info/posts/a-dream/zh-cn/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   

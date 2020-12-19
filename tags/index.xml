@@ -6,29 +6,38 @@
     <description>Recent content in Tags on wenzhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 22:02:30 -0800</lastBuildDate><atom:link href="https://wenzhan.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Network</title>
-      <link>https://wenzhan.info/tags/network/</link>
-      <pubDate>Sat, 12 Dec 2020 22:02:30 -0800</pubDate>
+      <title>English</title>
+      <link>https://wenzhan.info/tags/english/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan.info/tags/network/</guid>
+      <guid>https://wenzhan.info/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tech</title>
-      <link>https://wenzhan.info/tags/tech/</link>
-      <pubDate>Sat, 12 Dec 2020 22:02:30 -0800</pubDate>
+      <title>Food</title>
+      <link>https://wenzhan.info/tags/food/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan.info/tags/tech/</guid>
+      <guid>https://wenzhan.info/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://wenzhan.info/tags/life/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenzhan.info/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
       <link>https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/</link>
-      <pubDate>Sat, 12 Dec 2020 22:02:30 -0800</pubDate>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
@@ -44,11 +53,20 @@
     </item>
     
     <item>
-      <title>English</title>
-      <link>https://wenzhan.info/tags/english/</link>
+      <title>Network</title>
+      <link>https://wenzhan.info/tags/network/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wenzhan.info/tags/english/</guid>
+      <guid>https://wenzhan.info/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://wenzhan.info/tags/tech/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenzhan.info/tags/tech/</guid>
       <description></description>
     </item>
     

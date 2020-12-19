@@ -6,11 +6,11 @@
     <description>Recent content in Tech on wenzhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 22:02:30 -0800</lastBuildDate><atom:link href="https://wenzhan.info/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>网页在某机器上突然打不开，可能是本地DNS记录未更新</title>
       <link>https://wenzhan.info/posts/flush-dns/</link>
-      <pubDate>Sat, 12 Dec 2020 22:02:30 -0800</pubDate>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wenzhan.info/posts/flush-dns/</guid>
       <description>发生了这样一种情况：更改DNS记录之后，本地一台电脑无法打开网页，但是手机及其他电脑均可以打开。本地电脑上所有浏览器都表现出这个问题，而且，仅通过浏览器删除历史记录，也不能解决相关问题。
