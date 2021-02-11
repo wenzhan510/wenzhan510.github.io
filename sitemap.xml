@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wenzhan.info/posts/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/tags/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/tags/%E8%AF%97%E6%AD%8C/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/posts/the-mountain/zh-cn/</loc>
+    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/tags/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/posts/thunderstorm/zh-cn/</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/tags/social-media/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wenzhan.info/posts/clubhouse-day3/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wenzhan.info/tags/english/</loc>
     <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
@@ -19,26 +69,6 @@
   
   <url>
     <loc>https://wenzhan.info/tags/life/</loc>
-    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wenzhan.info/posts/</loc>
-    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wenzhan.info/tags/</loc>
-    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wenzhan.info/</loc>
-    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wenzhan.info/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
