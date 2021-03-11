@@ -6,7 +6,26 @@
     <description>Recent content on wenzhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wenzhan.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的记录工具</title>
+      <link>https://wenzhan.info/posts/tool-share/tool-share/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenzhan.info/posts/tool-share/tool-share/</guid>
+      <description>今天想分享个人记录工具的使用心得。
+曾经也尝试过很强大的工具，能够结合日历，智能汇总，定时提醒，但我却用不习惯。后来发现，对我来说它们往往存在这么一个问题，就是把简单的事情复杂化，每一条都要输入很多的内容，让养成记录习惯变成一个很艰难的过程。
+自己的实际使用中，我将记录工具分为三类。
+第一类，随手记工具。
+我使用simplenote。这个软件正如它名字所写的那样，功能非常单一，只能记录文字，并进行非常简单的标签分类。它做的最好的地方在同步性，或许归功于于记录的文档格式单纯，同步代价低廉，能够在手机、PC、mac之间非常快速地同步，本体软件也非常小，响应速度极快。我用它记录随手要做的事情、临时的琐碎心得、安排今日TODO、存放方便调取的个人信息和语料模版。simplenote不方便进行长期的内容存储，对应条目完成之后，在平时工作间隙和周末，我会对simplenote里的内容进行分类、归并整理，将对应的内容存储到其他的工具。
+第二类，档案类工具
+这方面以前我尝试过其他工具，现在重点使用notion。notion同样是一个基多平台同步行的软件，它的长处在于可以非常方便地进行类数据库形式的条目管理和筛选。我用它来记录自己多个项目的进度（这对于平行开展长期而复杂的项目，从全局视角回顾项目进度，非常有帮助），进行时间规划和个人账单管理。此外，我有一些遗传的身体问题，也用它来记录个人的健康数据。
+第三类，创作类工具
+这方面我使用scrivener。它的好处是界面简单干净，方便专注创作，同时也能够很方便地用树状组织的形式来管理内容，文件加载速度感人。在我过去五年的使用中，它的本地备份也做得比较靠谱。我一般用它来系统组织个人的长文章、阅读心得、日常笔记等方面的内容。
+
+近期的思考：长期过于急切地等待即时地交流，或许会导致思维的习惯性短欠。这篇文章便是这样的一个尝试。想象有这么一位离自己很远、无法即时交互的朋友，通过文章留言将生活进行分享。也希望这样能降低博客更新的心态门槛，稍微更频繁地输出。</description>
+    </item>
+    
     <item>
       <title>生死场：谁敢说萧红乱写？</title>
       <link>https://wenzhan.info/posts/shengsichang/</link>
